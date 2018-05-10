@@ -5,8 +5,8 @@
 "TestMode": false, // If TestMode is active, no properties files will be changed
 "ProfitTrailerMajorVersion": 2, // Major version of your Profit Trailer (If you are using 1.2.x the major version is "1", if you are using 2.x the major version is "2" and so on)
 "ProfitTrailerPath": "\\home\\ptbot1\\profittrailer\\", // Path to your Profit Trailer main directory (use double backslashes for windows like C:\\ProfitTrailer\\)
-"ProfitTrailerLicense": "ccbaf619f77705d292e2c8089c52c0f6", // Your Profit Trailer license key (needed to change your settings for PT 2.0 and above)
-"ProfitTrailerMonitorURL": "http://104.196.116.153:8081/", // The URL to your profit trailer monitor (needed to change your settings for PT 2.0 and above)
+"ProfitTrailerLicense": "", // Your Profit Trailer license key (needed to change your settings for PT 2.0 and above)
+"ProfitTrailerMonitorURL": "/", // The URL to your profit trailer monitor (needed to change your settings for PT 2.0 and above)
 "ProfitTrailerDefaultSettingName": "default", // Your Profit Trailer default setting name (needed to change your settings for PT 2.0 and above)
 "Exchange": "Binance", // The exchange your are running Profit Trailer on
 "StartBalance": 0.03416308, // The balance you had in your wallet when you started working with Profit Trailer
