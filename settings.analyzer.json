@@ -1,4 +1,16 @@
-/*/
+/* *************************************************************************
+*                 The North Star: Settings for ProfitTrailer 2             *
+****************************************************************************
+* Developers:     Discord @stevenshizzle#8860 / Telegram @stevenshizzle    *
+*                 Discord @cabbage#4164                                    *
+* Contributors:   @smoochy#6365 (disc) @fransenson#5625 (disc)             *
+*                 @samueldc (tel)                                          *
+* Thanks:         theWolfsofCrypto (tinyurl.com/WolfsOfCrypto)             *
+* Tested With:    ProfitTrailer 2.0.1 / PTMagic 1.6.1                      *
+* URL:            www.thenorthstarsettings.com                             *
+* File:           PTM settings.analyzer.json                               *
+* Last Update:    v2.0.0 - 06 MAY 2018                                     *
+************************************************************************* */
 {
   "AnalyzerSettings": {
     "MarketAnalyzer": {
